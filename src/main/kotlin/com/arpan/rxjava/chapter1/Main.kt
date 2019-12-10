@@ -5,7 +5,7 @@ import io.reactivex.rxjava3.core.Single
 import io.reactivex.rxjava3.schedulers.Schedulers
 
 fun main() {
-    single()
+    observablesAreLazy()
 }
 
 fun reactiveHelloWorld() {
